@@ -95,6 +95,7 @@ require github.com/1Password/connect-sdk-go v1.5.0
 
 require (
 	github.com/hashicorp/golang-lru v0.5.4
+	github.com/spf13/pflag v1.0.5
 	sigs.k8s.io/yaml v1.3.0
 )
 
@@ -199,7 +200,6 @@ require (
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/sony/gobreaker v0.5.0 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/uber/jaeger-client-go v2.30.0+incompatible // indirect
